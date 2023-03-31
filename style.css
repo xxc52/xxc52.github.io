@@ -1,0 +1,25 @@
+h1, p{
+    color: brown;
+}
+
+.coding{
+    color: red;
+}
+
+#clapclapclap{
+    color: purple;
+}
+
+div h2{
+    color: skyblue;
+}
+
+/* 친구들 셋이서 방하나 구해 */
+.stickyy {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    text-align: center;
+    position: sticky;
+    top:0;
+}
